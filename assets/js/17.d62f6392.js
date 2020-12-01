@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{271:function(t,s,a){"use strict";a.r(s);var e={name:"Tag",components:{PostList:a(222).a}},n=a(3),i=Object(n.a)(e,function(){var t=this.$createElement,s=this._self._c||t;return s("div",{staticClass:"tag-page"},[s("PostList",{attrs:{postList:this.$tag.posts}})],1)},[],!1,null,"04abf589",null);s.default=i.exports}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[42],{302:function(t,e,n){"use strict";n.r(e);var s=n(3),o=Object(s.a)({},function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("blockquote",[e("p",[this._v("这是一个树洞，记录生活的点滴感悟\n")])])])},[],!1,null,null,null);e.default=o.exports}}]);

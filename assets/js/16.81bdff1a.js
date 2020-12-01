@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{273:function(e,n,t){"use strict";t.r(n);var a={name:"Page"},c=t(3),s=Object(c.a)(a,function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("需要实现Page组件")])},[],!1,null,"fc7a634c",null);n.default=s.exports}}]);
